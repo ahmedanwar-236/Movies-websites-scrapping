@@ -17,6 +17,6 @@ Scrapping 3 movies websites in Egypt to automate downloading movies and series
      
 - Thirdly: Follow the search steps:
     1) Confirm VPN activation
-    2) Choose website
+    2) Choose website (Only search in Egybest working for now)
     3) Choose to search for movies or series
     4) Start searching & follow the procedure
